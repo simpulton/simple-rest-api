@@ -22,4 +22,4 @@ You will need:
   slc run
   ```
   
-6. Navigate to [localhost:1337/explorer](http://localhost:1337/explorer) to view your api. Congratulations! You can now play around with it using the explorer or head over to the [simple-rest-website](https://github.com/simpulton/simple-rest-website) repo for a super-simple front-end application that connects to your new API!
+6. Navigate to [localhost:1337/explorer](http://localhost:1337/explorer) to view your api. Congratulations! You can now play around with it using the explorer or head over to [Simple REST Website](https://github.com/simpulton/simple-rest-website) for a super-simple front-end application that connects to your new API!
