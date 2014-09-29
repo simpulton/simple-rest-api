@@ -1,0 +1,1 @@
+* Repo for a simple REST API built using StrongLoop.

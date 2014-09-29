@@ -1,0 +1,12 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongoDB": {
+    "port": 27017,
+    "database": "strongloop",
+    "name": "mongoDB",
+    "connector": "mongodb"
+  }
+}
