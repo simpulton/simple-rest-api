@@ -1,4 +1,4 @@
-# Simple-Rest-API
+# Simple REST API
 This is an API built using [StrongLoop](http://strongloop.com/). It relies on NodeJS and MongoDB.
 
 ## Prerequisites
