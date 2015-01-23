@@ -21,5 +21,6 @@ You will need:
   npm install
   slc run
   ```
+  * Note: If you want to use the version without authentication, checkout the "without-auth" branch and restart the API if necessary. Be sure to do the same in the simple-rest-website repo.
   
 6. Navigate to [localhost:1337/explorer](http://localhost:1337/explorer) to view your api. Congratulations! You can now play around with it using the explorer or head over to [Simple REST Website](https://github.com/simpulton/simple-rest-website) for a super-simple front-end application that connects to your new API!
