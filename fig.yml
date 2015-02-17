@@ -4,6 +4,8 @@ web:
     - "1337:1337"
   links:
     - mongo
+  environment:
+    NODE_ENV: fig
 
 mongo:
   image: mongo:2.6

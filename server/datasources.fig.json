@@ -1,10 +1,6 @@
 {
-  "db": {
-    "name": "db",
-    "connector": "memory"
-  },
   "mongoDB": {
-    "host": "localhost",
+    "host": "mongo",
     "port": 27017,
     "database": "strongloop",
     "name": "mongoDB",
