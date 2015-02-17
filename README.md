@@ -32,4 +32,8 @@ An alternative way to run the simple-rest-server is via [Docker](https://www.doc
   fig up
   ```
   
-6. Navigate to [localhost:1337/explorer](http://localhost:1337/explorer) (or [http://192.168.59.103:1337/explorer/](http://192.168.59.103:1337/explorer/) if using boot2docker) to view your api. Congratulations! You can now play around with it using the explorer or head over to [Simple REST Website](https://github.com/simpulton/simple-rest-website) for a super-simple front-end application that connects to your new API!
+Navigate to [localhost:1337/explorer](http://localhost:1337/explorer) (or [http://192.168.59.103:1337/explorer/](http://192.168.59.103:1337/explorer/) if using boot2docker) to view your api. 
+
+Congratulations! 
+
+You can now play around with it using the explorer or head over to [Simple REST Website](https://github.com/simpulton/simple-rest-website) for a super-simple front-end application that connects to your new API!
