@@ -4,6 +4,7 @@
     "connector": "memory"
   },
   "mongoDB": {
+    "host": "mongo",
     "port": 27017,
     "database": "strongloop",
     "name": "mongoDB",
