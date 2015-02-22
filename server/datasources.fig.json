@@ -1,9 +1,7 @@
 {
   "mongoDB": {
-    "host": "mongo",
-    "port": 27017,
+    "connector": "mongodb",
     "database": "strongloop",
-    "name": "mongoDB",
-    "connector": "mongodb"
+    "name": "mongoDB"
   }
 }

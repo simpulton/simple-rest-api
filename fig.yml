@@ -5,7 +5,7 @@ web:
   links:
     - mongo
   environment:
-    NODE_ENV: fig
+    MONGO_URL: "mongodb://mongo:27017"
 
 mongo:
   image: mongo:2.6
